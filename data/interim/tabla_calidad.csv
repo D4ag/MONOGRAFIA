@@ -1,0 +1,25 @@
+archivo,clase,muestras,nan_en_de,infinitos_en_de,rpm_disponible,duplicado
+97.mat,Normal,243938,0,0,True,False
+98.mat,Normal,483903,0,0,False,False
+99.mat,Normal,485063,0,0,False,False
+100.mat,Normal,485643,0,0,True,False
+118.mat,Ball,122571,0,0,True,False
+119.mat,Ball,121410,0,0,True,False
+120.mat,Ball,121556,0,0,True,False
+121.mat,Ball,121556,0,0,True,False
+105.mat,Inner Race,121265,0,0,True,False
+106.mat,Inner Race,121991,0,0,True,False
+107.mat,Inner Race,122136,0,0,True,False
+108.mat,Inner Race,122917,0,0,True,False
+130.mat,Outer Race,121991,0,0,True,False
+131.mat,Outer Race,122426,0,0,True,False
+132.mat,Outer Race,121410,0,0,True,False
+133.mat,Outer Race,122571,0,0,True,False
+144.mat,Outer Race,122281,0,0,True,False
+145.mat,Outer Race,121846,0,0,True,False
+146.mat,Outer Race,121556,0,0,True,False
+147.mat,Outer Race,122281,0,0,True,False
+156.mat,Outer Race,122281,0,0,True,False
+158.mat,Outer Race,121991,0,0,True,False
+159.mat,Outer Race,122281,0,0,True,False
+160.mat,Outer Race,122136,0,0,True,False
